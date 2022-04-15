@@ -1,0 +1,56 @@
+AC Transit	Anchorage, AK	100	Vertical Above	Butt Welded Insulated	Cone	Aluminum	Lap Welded	Asphalt	Diesel	30	10	10000
+Air National Guard	Hennepin, IL	67	Vertical Above	Insulated	Cone	None	Butt Welded	Concrete Ring Wall	Asphalt	100	17	10167
+Air National Guard	Hennepin, IL	5	Vertical Above	Butt Welded	Aluminum Dome	Steel Pan	Bolted	Asphalt	Water	56	33	8760
+Air National Guard	Portland, OR	3	Vertical Under	Butt Welded	Cone	Annular Pontoon	Butt Welded	Concrete Ring Wall	Crude	56	22	50600
+Aloha	Honolulu Oahu, HI	35	Horizontal Above	Butt Welded	Open Top	Aluminum	Double Annular	Asphalt	Methanol	30	50	10167
+Chevron	Oakland, CA	6M	Horizontal Above	Butt Welded Insulated	Cone	None	Lap Welded	Asphalt	Methanol	30	10	10000
+Eco Services	Martinez, CA	1	Vertical Above	Lap Riveted	Aluminum Dome	None	Lap Welded	Earthen	Diesel	30	14	2300
+Eco Services	Martinez, CA	23P	Vertical Above	Lap Welded	Cone Insulated	Aluminum Foam	Double Annular	Crushed Stone	Water	20	17	20100
+Flyers Energy	Sparks, NV	35	Vertical Above	Insulated	Cone	Steel Pan	Bolted	Concrete Ring Wall	Diesel	100	10	8760
+Flyers Energy	Minden, NV	301	Vertical Above	Butt Welded Insulated	Cone	Aluminum	Bolted	Sand	Crude	12	10	20100
+Flyers Energy	Minden, NV	35	Vertical Above	Butt Welded	Cone	Aluminum Foam	Butt Welded	Sand	Crude	30	50	200356
+Flyers Energy	Minden, NV	7	Rectangular	Butt Welded	Cone	Aluminum	Bolted	Concrete Ring Wall	Asphalt	30	10	50600
+FSM Group	Denver, CO	200	Vertical Above	Butt Welded Insulated	Open Top	Aluminum Foam	Triple Annular	Crushed Stone	Water	30	22	10167
+HELCO	Kahalui Maui, HI	5C	Vertical Above	Lap Riveted	Cone Insulated	Aluminum Foam	Lap Welded	Asphalt	Crude	80	10	11000
+Holly Frontier	Glendale, AZ	2	Vertical Above	Butt Welded	Open Top	Aluminum	Bolted	Asphalt	Jet	100	14	10167
+Holly Frontier	Glendale, AZ	10	Horizontal Above	Butt Welded	Cone	Aluminum Foam	Butt Welded	Asphalt	Methanol	56	50	8760
+Kinder Morgan	Sacramento, CA	20	Horizontal Above	Insulated	Cone	Steel Pan	Bolted	Crushed Stone	Diesel	30	33	34056
+KIUC	Eleele, HI	16_b9	Vertical Above	Butt Welded	Cone	Aluminum	Butt Welded	Asphalt	Diesel	56	10	10167
+Marquis Energy	Hennepin, IL	4	Vertical Above	Butt Welded Insulated	Cone Insulated	Aluminum	Double Annular	Concrete Ring Wall	Methanol	30	33	50000
+Marquis Energy	Hennepin, IL	8B	Vertical Above	Butt Welded Insulated	Aluminum Dome	Aluminum	Bolted	Concrete Ring Wall	Methanol	100	10	100
+Marquis Energy	Necedah, WI	4	Vertical Above	Butt Welded	Cone	None	Lap Welded	Earthen	Water	20	10	10000
+Marquis Energy	Necedah, WI	600	Vertical Above	Butt Welded	Aluminum Dome	Aluminum Foam	Bolted	Asphalt	Asphalt	30	10	11000
+Nissan Decherd	Nashville, TN	89	Vertical Under	Butt Welded	Cone	None	Butt Welded	Earthen	Diesel	30	10	11000
+Nissan Decherd	Nashville, TN	A24	Vertical Under	Lap Riveted	Cone Insulated	Steel Pan	Double Annular	Asphalt	Crude	12	22	50600
+Nustar Energy	Amarillo, TX	29	Vertical Above	Lap Riveted	Cone Insulated	Steel Pan	Butt Welded	Earthen	Methanol	12	14	10000
+Nustar Energy	Amarillo, TX	10	Rectangular	Butt Welded	Cone	None	Butt Welded	Concrete Ring Wall	Jet	30	40	20100
+Nustar Energy	Catoosa, OK	302	Horizontal Above	Butt Welded Insulated	Cone	None	Double Annular	Asphalt	Water	37	50	2300
+Nustar Energy	Portland, OR	465	Vertical Above	Insulated	Aluminum Dome	Aluminum Foam	Bolted	Concrete Ring Wall	Jet	37	80	2300
+Nustar Energy	Portland, OR	110	Vertical Above	Butt Welded	Aluminum Dome	Aluminum	Bolted	Crushed Stone	Water	100	33	10000
+Nustar Energy	Portland, OR	3	Sphere	Lap Welded Insulated	Cone	Annular Pontoon	Bolted	Crushed Stone	Diesel	30	17	50000
+Nustar Energy	Stockton, CA	5	Horizontal Above	Lap Welded Insulated	Cone	Annular Pontoon	Butt Welded	Concrete Ring Wall	Diesel	20	10	50000
+Nustar Energy	Stockton, CA	19_8	Vertical Above	Butt Welded	Cone	Aluminum	Lap Welded	Asphalt	Methanol	30	40	3400
+Omega Partners	Sparks, NV	T2	Horizontal Above	Lap Welded	Cone	None	Butt Welded	Earthen	Methanol	30	22	10167
+PAR	Kahalui Maui, HI	300	Horizontal Above	Lap Welded	Open Top	None	Double Annular	Concrete Ring Wall	Crude	100	33	34056
+Pro Petroleum	El Mirage, AZ	1_20	Vertical Above	Butt Welded Insulated	Cone	None	Double Annular	Asphalt	Crude	20	33	34056
+Quality Car Care	Duarte, CA	405	Vertical Above	Butt Welded	Open Top	Aluminum	Bolted	Asphalt	Crude	20	10	10000
+Sequoia National Park	Battle Mountain, NV	9	Horizontal Above	Insulated	Aluminum Dome	None	Triple Annular	Asphalt	Water	100	50	10000
+Summit Terminals	Battle Mountain, NV	00_10	Horizontal Under	Butt Welded	Cone Insulated	Aluminum	Triple Annular	Asphalt	Jet	30	33	20100
+Tidewater	Pasco, WA	10_10	Sphere	Butt Welded	Cone	Annular Pontoon	Bolted	Concrete Ring Wall	Methanol	30	33	11000
+Tidewater	Pasco, WA	45D	Horizontal Above	Lap Welded	Aluminum Dome	Aluminum	Lap Welded	Asphalt	Crude	30	10	3400
+Tidewater	Pasco, WA	6	Vertical Above	Butt Welded Insulated	Cone	Aluminum	Butt Welded	Crushed Stone	Water	30	17	50600
+Tidewater	Pasco, WA	CODE	Vertical Under	Butt Welded Insulated	Aluminum Dome	Aluminum	Lap Welded	Sand	Water	56	10	50600
+US Airforce	Portland, OR	345	Vertical Above	Lap Riveted	Cone Insulated	Aluminum	Lap Welded	Sand	Asphalt	56	10	3400
+US Airforce	Salem, OR	23R	Horizontal Above	Butt Welded	Cone	None	Lap Welded	Crushed Stone	Asphalt	12	40	100
+US Airforce	Salem, OR	1_57	Horizontal Above	Lap Welded	Open Top	None	Bolted	Earthen	Water	100	22	100
+US Airforce	Quincy, WA	1	Vertical Above	Butt Welded	Open Top	None	Butt Welded	Asphalt	Diesel	30	10	8760
+US Navy	Nashville, TN	3_3	Vertical Above	Butt Welded	Cone	Aluminum Foam	Butt Welded	Concrete Ring Wall	Methanol	37	10	50000
+US Navy	Nashville, TN	7	Horizontal Above	Butt Welded	Cone	Aluminum Foam	Butt Welded	Concrete Ring Wall	Jet	30	14	10000
+US Navy	Salt Lake City, UT	66N	Vertical Under	Butt Welded	Cone Insulated	Aluminum	Bolted	Asphalt	Methanol	20	22	20100
+US Navy	Salt Lake City, UT	1_56	Vertical Under	Butt Welded Insulated	Cone Insulated	None	Triple Annular	Crushed Stone	Out of Service	100	10	10000
+VSS	Sacramento, CA	I68	Horizontal Above	Lap Welded	Cone	None	Double Annular	Asphalt	Out of Service	100	50	8760
+Wilbur Ellis	Boardman, OR	10	Vertical Above	Lap Riveted	Aluminum Dome	Aluminum	Triple Annular	Concrete Ring Wall	Water	37	33	8760
+Wilbur Ellis	Dalhart, TX	8	Vertical Above	Butt Welded	Aluminum Dome	Steel Pan	Butt Welded	Asphalt	Asphalt	30	33	50600
+Wilbur Ellis	Quincy, WA	10	Vertical Above	Butt Welded	Cone	Annular Pontoon	Bolted	Asphalt	Diesel	56	10	10000
+Wilbur Ellis	Quincy, WA	4	Vertical Under	Butt Welded	Cone Insulated	Aluminum	Triple Annular	Asphalt	Methanol	100	10	34056
+YRC	Salt Lake City, UT	2B	Vertical Above	Butt Welded Insulated	Cone Insulated	None	Double Annular	Concrete Ring Wall	Crude	30	14	3400
